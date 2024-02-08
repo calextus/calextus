@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 
-- 🔭 I’m currently working on **a portfolio website**
+- 🔭 I’m currently working on **a Reactjs Project**
 
 - 🌱 I’m currently learning **JavaScript, Python and Reactjs**
 
