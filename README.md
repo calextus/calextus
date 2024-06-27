@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 
-- 🔭 I’m currently working on **a Reactjs Project**
+- 🔭 I’m currently working on **an IoT Project**
 
 - 🌱 I’m currently learning **JavaScript, Python and Reactjs**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **React Native project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/calextus](https://github.com/calextus)
 
